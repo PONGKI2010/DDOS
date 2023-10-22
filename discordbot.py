@@ -36,4 +36,4 @@ async def 중지(ctx):
     await session.close()
     await bot.logout()
 
-bot.run('MTE2NTI0MzcwMzUwNjUyMjIzMg.GWx2W7.09qKn-WzV5u32TUwaTWiXiFbRqJuoVxP7sCmy4')
+bot.run('MTE2NTI0MzcwMzUwNjUyMjIzMg.G_1MEQ.qoRIb2msXzLiH8kUO4-WAZLpPzJG_lKQeIib_A')
